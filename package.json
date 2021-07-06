@@ -1,0 +1,15 @@
+{
+  "name": "gama-js-project",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido nas aulas de Javascript da Gama Academy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Crystian Lefundes",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
